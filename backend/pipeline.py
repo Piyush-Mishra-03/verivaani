@@ -1,3 +1,4 @@
+# VeriVaani v1.0 — Core pipeline implementation
 """
 Automated Fact-Checker for Vernacular News
 Intel Unnati GenAI for GenZ — VeriVaani
