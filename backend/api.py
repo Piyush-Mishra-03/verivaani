@@ -105,6 +105,7 @@ async def root():
     </html>
     """
 
+# Supports Hindi, Tamil, Telugu, Bengali, Marathi, English
 # ── Single post check ──────────────────────────────────────────────────────────
 @app.post("/check", response_model=CheckResponse, summary="Check a single post for misinformation")
 async def check_single(req: CheckRequest):
