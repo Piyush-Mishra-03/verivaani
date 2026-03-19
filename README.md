@@ -171,5 +171,7 @@ verivaani/
 ## 👥 Team
 Intel Unnati GenAI for GenZ Participants
 
+## Changelog
+- v1.0: Core pipeline with ScaleDown RAG + Groq
 ---
-*Built with Groq + ScaleDown + FastAPI*
+
