@@ -52,6 +52,10 @@ India's population has NOT crossed 200 crores (2 billion). 200 crores = 2 billio
 1.4 billion = 140 crores. Any claim of 200 crores population is FALSE.
 Source: Census India, 2023
 
+## India Cricket
+India won the ICC T20 World Cup 2024, defeating South Africa in the final in Barbados.
+Source: ICC, June 2024
+
 ## India GDP Growth
 India's GDP growth rate was approximately 7.2% in FY2023-24, not 20%.
 The economy grew steadily but no single year saw 20% GDP growth.
